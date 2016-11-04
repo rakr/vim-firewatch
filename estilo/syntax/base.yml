@@ -1,0 +1,83 @@
+# BASE UI
+ColorColumn: '. uno7'
+Conceal: ''
+Cursor: 'uno8 accent'
+CursorIM: ''
+CursorColumn: '. uno7'
+CursorLine: '. uno7'
+CursorLineNr: 'uno2 uno7'
+Directory: 'uno1'
+DiffAdd: 'added uno7'
+DiffChange: 'modified uno7'
+DiffDelete: 'removed uno7'
+DiffText: 'uno1'
+ErrorMsg: 'removed uno8'
+VertSplit: 'uno5 uno7'
+Folded: 'uno3 uno7'
+FoldColumn: '. uno7 b'
+SignColumn: '. uno4'
+IncSearch: 'uno8 uno4'
+LineNr: 'uno5'
+MatchParen: 'uno8 accent'
+ModeMsg: 'added'
+MoreMsg: 'uno2 . b'
+NonText: 'uno5'
+Normal: 'uno2 uno8'
+PMenu: 'uno1 uno6'
+PMenuSel: '. uno8'
+PmenuSbar: '. uno8'
+PmenuThumb: '. uno1'
+Question: 'accent . b'
+Search: 'uno8 uno4'
+SpecialKey: 'uno4'
+SpellBad: 'removed'
+SpellLocal: 'added'
+SpellCap: 'modified'
+SpellRare: 'renamed'
+StatusLine: 'uno8 duo2'
+StatusLineNC: 'uno3 uno6'
+TabLine: 'uno3 uno6'
+TabLineFill: 'uno3 uno6'
+TabLineSel: 'uno8 duo2'
+Title: 'uno1'
+Visual: '. uno6'
+VisualNOS: '. uno6'
+WarningMsg: 'modified uno8 b'
+WildMenu: 'uno1 uno8'
+# BASE SYNTAX
+Comment: 'uno4 . i'
+Constant: 'duo1'
+String: '' # Constant
+Character: '' # Constant
+Boolean: '' # Constant
+Number: '' # Constant
+Float: '' # Constant
+Identifier: 'duo1'
+Function: '' # Identifier
+Statement: 'duo2'
+Conditional: '' # Statement
+Repeat: '' # Statement
+Label: 'duo2' # Statement
+Quote: 'uno2' # Statement
+Operator: '' # Statement
+Keyword: '' # Statement
+Exception: '' # Statement
+PreProc: 'duo1'
+Include: '' # PreProc
+Define: '' # PreProc
+Macro: '' # PreProc
+PreCondit: '' # PreProc
+Type: 'duo2'
+StorageClass: '' # Type
+Structure: '' # Type
+Typedef: '' # Type
+Special: 'uno3'
+SpecialChar: '' # Special
+Tag: '' # Special
+Delimiter: '' # Special
+SpecialComment: '' # Special
+Debug: '' # Special
+Underlined: ''
+Ignore: ''
+Error: 'removed uno7 b'
+Todo: 'added uno7 b'

@@ -1,0 +1,43 @@
+# normal
+normal1: 'uno8 green2' # 2 items
+normal2: 'statustext statusline' # 2 items
+normal3: 'statustext statusline' # 1 item
+normal4: 'statustext statusline' # 2 items
+normal5: 'statustext statusline' # 2 items
+
+normalError: 'uno8 red1' # 1 item
+normalWarning: 'uno8 yellow2' # 1 item
+
+# inactive
+inactive1:  'uno3 uno6' # 2 items
+inactive2:  'uno3 uno6' # 2 items
+inactive3: 'uno3 uno6' # 1 item, linking to normal.middle by default
+inactive4: 'uno3 uno6' # 2 items, linking to normal.right by default
+inactive5: 'uno3 uno6' # 2 items, linking to normal.right by default
+
+# insert
+insert1: 'uno8 blue2' # 2 items
+insert2: 'statustext statusline' # 2 items
+insert3: 'statustext statusline' # 1 items, linking to normal.middle by default
+insert4: 'statustext statusline' # 2 items, linking to normal.right by default
+insert5: 'statustext statusline' # 2 items, linking to normal.right by default
+
+# replace
+replace1: 'uno8 red2' # 2 items
+replace2: 'statustext statusline' # 2 items
+replace3: 'statustext statusline' # 1 items, linking to normal.middle by default
+replace4: 'statustext statusline' # 2 items, linking to normal.right by default
+replace5: 'statustext statusline' # 2 items, linking to normal.right by default
+
+# visual
+visual1: 'uno8 yellow2' # 2 items
+visual2: 'statustext statusline' # 2 items
+visual3: 'statustext statusline' # 1 items, linking to normal.middle by default
+visual4: 'statustext statusline' # 2 items, linking to normal.right by default
+visual5: 'statustext statusline' # 2 items, linking to normal.right by default
+
+# tabline
+tablineLeft: 'uno4 uno8' # 1 item
+tablineSelected: 'uno1 uno3' # 1 item
+tablineMiddle: 'uno4 uno8' # 1 item
+tablineRight: 'uno4 uno8' # 1 item

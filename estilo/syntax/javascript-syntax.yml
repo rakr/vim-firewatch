@@ -1,0 +1,109 @@
+# JavaScript syntax based on jelera/vim-javascript-syntax
+
+# Title
+javaScriptFuncExp: '' # Title
+
+  # Comment
+javaScriptLineComment: '' # Comment
+javaScriptComment: '' # Comment
+javaScriptDocComment: '' # Comment
+
+  # Constant
+javaScriptBoolean: '' # Constant
+javaScriptGlobal: '' # Constant
+javaScriptString: '' # Constant
+javaScriptNumber: '' # Constant
+javaScriptRegexpString: '' # Constant
+javaScriptFloat: '' # Constant
+javaScriptBrowserObjects : '' # Constant
+javaScriptDOMObjects: '' # Constant
+javaScriptAjaxObjects : '' # Constant
+javaScriptPropietaryObjects : '' # Constant
+javaScriptDomNodeConsts : '' # Constant
+javaScriptHtmlEvents: '' # Constant
+javaScriptLogicSymbols : '' # Constant
+javaScriptTemplateString: '' # Constant
+javaScriptCharacter: '' # Constant
+
+
+# Special
+javaScriptSource: '' # Special
+javaScriptGlobalObjects: '' # Special
+javaScriptExceptions: '' # Special
+javaScriptDocTags: '' # Special
+javaScriptSpecial: '' # Special
+javaScriptFuncArg: 'uno2' # Special
+
+  
+# Identifier
+javaScriptIdentifier: '' # Identifier
+javaScriptDocParam: '' # Identifier
+javaScriptDocSeeTag: '' # Identifier
+javaScriptFuncKeyword: '' # Identifier
+javaScriptBraces: 'uno4' # Identifier
+
+
+# Statement
+javaScriptOperator: '' # Statement
+javaScriptMessage: '' # Statement
+javaScriptDeprecated: '' # Statement
+javaScriptConditional: '' # Statement
+javaScriptRepeat: '' # Statement
+javaScriptBranch: '' # Statement
+javaScriptStatement: '' # Statement
+javaScriptReserved: '' # Statement
+javaScriptFuncEq: '' # Statement
+javaScriptParens: 'uno4' # Statement
+javaScriptFuncComma: '' # Statement
+javaScriptOpSymbols: '' # Statement
+javaScriptEndColons: '' # Statement
+javaScriptTemplateDelim: '' # Statement
+
+
+# PreProc
+javaScriptFuncDef: '' # PreProc
+
+
+# Type
+javaScriptNull: '' # Type
+javaScriptPrototype: '' # Type
+javaScriptDOMMethods: '' # Type
+javaScriptAjaxMethods: '' # Type
+javaScriptEventListenerKeywords: '' # Type
+javaScriptWebAPI: '' # Type
+javaScriptCssStyles: '' # Type
+javaScriptDomElemFuncs: '' # Type
+javaScriptHtmlElemFuncs: '' # Type
+
+# Error
+javaScriptDomErrNo: '' # Error
+javaScriptError: '' # Error
+javaScriptParensError: '' # Error
+javaScriptParensErrA: '' # Error
+javaScriptParensErrB: '' # Error
+javaScriptParensErrC: '' # Error
+
+
+# Todo
+javaScriptCommentTodo: '' # Todo
+
+
+# Label
+javaScriptLabel: '' # Label
+javaScriptDOMProperties: '' # Label
+javaScriptAjaxProperties: '' # Label
+javaScriptHtmlElemProperties: '' # Label
+javaScriptDomElemAttrs: '' # Label
+javaScriptHtmlElemAttrs: '' # Label
+
+javaScriptSpecialCharacter: ''
+javaScriptPropietaryMethods: ''
+javaScriptEventListenerMethods: ''
+javaScriptParen: ''
+javaScriptDotNotation: ''
+javaScriptFunctionKey: ''
+javaScriptObjectKey: ''
+javaScriptTemplateVar: ''
+javaScriptBracket: 'uno4'
+javaScriptBlock: ''
+javaScriptParenError: ''

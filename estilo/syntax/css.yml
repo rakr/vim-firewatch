@@ -1,0 +1,24 @@
+cssAttrComma: 'uno4'
+cssBraces: 'uno4'
+cssFunctionName: 'uno2'
+cssProp: 'uno3'
+cssTagName: 'uno1'
+
+
+cssUnitDecorators: 'duo3'
+
+sassClass: 'uno1'
+sassCssAttribute: 'uno4'
+sassDefinition: 'uno4'
+sassInclude: 'uno1'
+sassMixin: 'duo3'
+sassMixinName: 'duo1'
+sassProperty: 'uno3'
+sassVariable: 'uno2'
+sassVariableAssignment: 'uno4'
+# cssContentForPagedMediaProp cssLineboxProp cssMarqueeProp cssPagedMediaProp cssPrintProp cssRubyProp cssSpeechProp cssRenderProp cssMediaProp cssPageProp cssFontDescriptorProp
+#	cssAnimationProp cssBackgroundProp cssBorderProp cssBoxProp cssColorProp cssDimensionProp cssFlexibleBoxProp cssFontProp cssMultiColumnProp cssGeneratedContentProp cssGridProp cssHyerlinkProp cssListProp cssPositioningProp cssTableProp cssTextProp
+#	cssTransformProp cssTransitionProp cssUIProp cssIEUIProp cssAuralProp cssMobileTextProp sassClass
+
+lessVariable: 'uno1'
+lessVariableAssignment: 'uno4'

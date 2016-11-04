@@ -1,0 +1,55 @@
+uno1: '#2d2006' # Heavy text
+uno2: '#896724' # Normal text
+uno3: '#b29762' # Light text
+uno4: '#b6ad9a' # Lighter text
+
+uno5: '#e5ddcc' # Guide
+uno6: '#e9e1d3' # Selection
+uno7: '#f5f1eb' # Gutter and cursor line
+uno8: '#faf8f5' # Background
+#uno8: '#ffffff' # Background
+
+statusline: '#EAE5DC'
+statustext: '#4F4530'
+
+duo1: '#063289'
+duo2: '#728fcb'
+duo3: '#aeb1b7'
+
+accent: '#477eeb'
+
+renamed:  '#33a0ff'
+added:    '#60AE62'
+modified: '#e0c285'
+removed:  '#e05252'
+
+# reds
+red2: '#941100'
+red1: '#FF2600'
+
+# blues
+blue2: '#045288'
+blue1: '#0096FF'
+
+# greens
+green2: '#009051'
+green1: '#43d08a'
+green3: '#EBF5F1'
+# yellows
+yellow2: '#935200'
+yellow1: '#FF9300'
+
+# whites
+highlighted: '#ffffff'
+text: '#eeeeee'
+gandalf: '#bbbbbb'
+
+# greys
+grey1: '#999999'
+grey2: '#666666'
+grey3: '#444444'
+
+shadow: '#323232'
+
+darker: '#1d1d1d'
+darkest: '#040404'

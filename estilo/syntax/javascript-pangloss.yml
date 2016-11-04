@@ -1,0 +1,8 @@
+jsBrackets: 'uno4'
+jsFuncCall: 'uno1'
+jsParens: 'uno4'
+jsNoise: 'uno4'
+jsObjectBraces: 'uno4'
+jsObjectSeparator: 'uno4'
+jsOperator: 'duo2' # Statement
+jsVariableDef: 'accent'

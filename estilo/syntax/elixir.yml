@@ -1,0 +1,63 @@
+# Elixir
+elixirComment: '' # Comment
+elixirUnusedVariable: '' # Comment
+elixirAtom: 'accent' # Constant
+elixirBoolean: '' # Constant
+elixirPseudoVariable: '' # Constant
+elixirNumber: '' # Constant
+elixirString: '' # Constant
+elixirRegex: '' # Constant
+elixirDocString: '' # Constant
+elixirAtomInterpolated: '' # Constant
+elixirSigil: '' # Constant
+elixirRegexDelimiter: '' # Delimiter
+elixirStringDelimiter: '' # Delimiter
+elixirInterpolationDelimiter: '' # Delimiter
+elixirSigilDelimiter: '' # Delimiter
+elixirSpecial: '' # Delimiter
+elixirRegexEscape: '' # Delimiter
+elixirRegexEscapePunctuation: '' # Delimiter
+elixirRegexQuantifier: '' # Delimiter
+elixirRegexCharClass: '' # Delimiter
+elixirSelf: '' # Identifier
+elixirVariable: '' # Identifier
+elixirFunctionDeclaration: 'uno1' # Identifier
+elixirBlockDefinition: '' # Statement
+elixirKeyword: '' # Statement
+elixirOperator: '' # Statement
+elixirInclude: '' # Preproc
+elixirDefine: 'duo2' # Preproc
+elixirPrivateDefine: 'duo3' # Preproc
+elixirModuleDefine: 'duo2' # Preproc
+elixirProtocolDefine: '' # Preproc
+elixirImplDefine: '' # Preproc
+elixirRecordDefine: '' # Preproc
+elixirPrivateRecordDefine: '' # Preproc
+elixirMacroDefine: '' # Preproc
+elixirMacroDeclaration: '' # Preproc
+elixirPrivateMacroDefine: '' # Preproc
+elixirDelegateDefine: '' # Preproc
+elixirOverridableDefine: '' # Preproc
+elixirExceptionDefine: '' # Preproc
+elixirCallbackDefine: '' # Preproc
+elixirStructDefine: '' # Preproc
+elixirAlias: '' # Type
+elixirTodo: '' # Todo
+elixirArguments: ''
+elixirGuard: ''
+elixirId: 'uno2'
+elixirInterpolation: ''
+elixirDocStringStar: ''
+elixirBlock: 'uno3'
+elixirAnonymousFunction: ''
+elixirDelimEscape: ''
+elixirModuleDeclaration: 'uno1'
+elixirProtocolDeclaration: ''
+elixirImplDeclaration: ''
+elixirRecordDeclaration: ''
+elixirDelegateDeclaration: ''
+elixirOverridableDeclaratio: ''
+elixirExceptionDeclaration: ''
+elixirCallbackDeclaration: ''
+elixirStructDeclaration: ''
+eelixirDelimiter: 'uno4'

@@ -1,0 +1,66 @@
+#uno1: '#d6e9ff' # Heavy text
+#uno2: '#abb2bf' # Normal text
+#uno3: '#6e88a6' # Light text
+#uno4: '#636d83' # Lighter text
+uno1: '#ebf4ff' # Heavy text
+uno2: '#b8d9fe' # Normal text
+uno3: '#91c3fd' # Light text
+uno4: '#677483' # Lighter text
+
+#uno5: '#404654' # Guide and Fold background
+#uno6: '#3e4452' # Selection
+#uno7: '#2c323c' # Gutter and cursor line
+#uno8: '#282c34' # Background
+uno5: '#3d4751' # Guide and Fold background
+uno6: '#424c57' # Selection
+uno7: '#2e353d' # Gutter and cursor line
+uno8: '#272d34' # Background
+
+statusline: '#21252B'
+statustext: '#99A1B1'
+
+#duo1: '#c8ae9d'
+#duo2: '#e06c75'
+#duo3: '#dd672c'
+duo1: '#ffcc99'
+duo2: '#e49e58'
+duo3: '#7c756e'
+
+#accent: '#56b6c2'
+accent: '#ffa852'
+
+renamed:  '#33a0ff'
+added:    '#43d08a'
+modified: '#e0c285'
+removed:  '#e05252'
+
+# reds
+red1: '#941100'
+red2: '#FF2600'
+
+# blues
+blue1: '#045288'
+blue2: '#0096FF'
+
+# greens
+green1: '#009051'
+green2: '#43d08a'
+green3: '#2C3C36'
+# yellows
+yellow1: '#935200'
+yellow2: '#FF9300'
+
+# whites
+highlighted: '#ffffff'
+text: '#eeeeee'
+gandalf: '#bbbbbb'
+
+# greys
+grey1: '#999999'
+grey2: '#666666'
+grey3: '#444444'
+
+shadow: '#323232'
+
+darker: '#1d1d1d'
+darkest: '#040404'

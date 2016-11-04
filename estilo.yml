@@ -1,0 +1,20 @@
+name: 'Firewatch'
+version: '1.0.0'
+license: 'MIT'
+author: 'Ramzi Akremi'
+url: ''
+description: 'Firewatch colorscheme for Vim'
+colorschemes:
+  - name: firewatch-dark
+    background: 'dark'
+    palette: firewatch-dark
+  - name: firewatch-light
+    background: 'light'
+    palette: firewatch-light
+lightline:
+  - name: 'firewatch_dark'
+    palette: firewatch-dark
+    style: 'standard'
+  - name: 'firewatch_light'
+    palette: firewatch-light
+    style: 'standard'
